@@ -119,39 +119,4 @@ body {
     text-decoration: none;
   }
   
-  @media only screen and (max-width: 768px) {
-    .card {
-      max-width: 400px;
-    }
-  
-    .card-header h1 {
-      font-size: 24px;
-    }
-  
-    #quote-text {
-      font-size: 24px;
-    }
-  
-    #quote-author {
-      font-size: 16px;
-    }
-  
-    #new-quote {
-      font-size: 16px;
-      padding: 8px 20px;
-    }
-  
-    .card-footer p {
-      font-size: 12px;
-    }
-  }
-  
-  .quote {
-    width: 30px;
-    height: 30px;
-  }
-  
-  #right {
-    transform: rotate(180deg);
-  }
   
