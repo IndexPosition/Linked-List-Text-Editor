@@ -18,7 +18,7 @@ This project is a simple text editor that uses a double linked list to store tex
 
 ## How to Use
 
-To use the text editor, simply open the `index.html` file in a web browser or [Click Here](). The text editor interface will open, allowing you to type and edit text.
+To use the text editor, simply open the `index.html` file in a web browser or [Click Here](https://indexposition.github.io/Linked-List-Text-Editor/). The text editor interface will open, allowing you to type and edit text.
 You can start typing in the text area, and use the following buttons to manage the input:
 
 1. Undo: Undo the last change made to the text area.
