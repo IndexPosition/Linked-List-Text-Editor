@@ -119,37 +119,7 @@ textarea {
   text-decoration: none;
 }
 
-@media only screen and (max-width: 768px) {
-  .card {
-    max-width: 400px;
-  }
-
-  .card-header h1 {
-    font-size: 24px;
-  }
-
-  #quote-text {
-    font-size: 24px;
-  }
-
-  #quote-author {
-    font-size: 16px;
-  }
-
-  #new-quote {
-    font-size: 16px;
-    padding: 8px 20px;
-  }
-
-  .card-footer p {
-    font-size: 12px;
-  }
-}
-
 @media screen and (max-width: 768px) {
-    .card-body {
-      flex-direction: column;
-    }
   
     #filename-input {
       width: 80%;
@@ -159,10 +129,15 @@ textarea {
     .btn-group {
       flex-direction: column;
       align-items: flex-start;
+      width: 100%;
     }
   
     .btn-group button,
     .btn-group input {
       width: 100%;
+    }
+
+    textarea {
+        width: 100%;
     }
   }
