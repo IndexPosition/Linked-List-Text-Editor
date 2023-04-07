@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple text editor that uses a double linked list to store text. It allows the user to perform basic text editing operations such as inserting and deleting text, as well as undoing and redoing previous changes. It also uses the concept of Stack.
+This project is a simple text editor that uses a double linked list to store text. It allows the user to perform basic text editing operations such as inserting and deleting text, as well as undoing and redoing previous changes.
 
 ## Technologies Used
 
